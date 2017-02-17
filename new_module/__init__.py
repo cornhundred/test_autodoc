@@ -1,5 +1,8 @@
 class Customer(object):
-    """A customer of ABC Bank with a checking account. Customers have the
+    """ MODIFYING DOCUMENTATION again
+
+
+    A customer of ABC Bank with a checking account. Customers have the
     following properties:
 
     Attributes:
