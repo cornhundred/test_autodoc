@@ -13,6 +13,7 @@ Contents:
 
    modules
    new_module_api
+   local_clustergrammer_api
 
 
 Indices and tables
