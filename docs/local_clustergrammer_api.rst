@@ -3,7 +3,7 @@ Local Clustergrammer API
 
 local new module
 
-.. automodule:: local_clustergrammer
+.. automodule:: clustergrammer_py
     :members:
     :undoc-members:
     :show-inheritance:
