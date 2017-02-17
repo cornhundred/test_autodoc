@@ -12,6 +12,7 @@ Contents:
    :maxdepth: 2
 
    modules
+   new_module_api
 
 
 Indices and tables

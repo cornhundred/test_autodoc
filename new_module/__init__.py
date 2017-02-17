@@ -1,5 +1,5 @@
 class Customer(object):
-    """ MODIFYING DOCUMENTATION again
+    """ I am modifying the module to update the starting balance
 
 
     A customer of ABC Bank with a checking account. Customers have the
@@ -10,7 +10,7 @@ class Customer(object):
         balance: A float tracking the current balance of the customer's account.
     """
 
-    def __init__(self, name, balance=0.0):
+    def __init__(self, name, balance=-1000.0):
         """Return a Customer object whose name is *name* and starting
         balance is *balance*."""
         self.name = name
